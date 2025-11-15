@@ -1,16 +1,18 @@
 ## Hi there 👋
-
-<!--
-**Juan-python/Juan-python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Juan
+About me
+- 🔭 I’m currently working on a proyect named "Space War" with my classmates
+- 🌱 I’m currently learning Python
+- 💬 Ask me about: I'm student from UTP, I'm 18 years old and I can speak Spanish and English, I was born in Peru
+- 📫 How to reach me: Here is my Email: sheykengamer1034@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: My friends call me "foraneo"
+**Hola**👋
+  Me llamo Juan
+  Sobre mi
+- 🔭 Actualmente estoy trabajando en un proyecto llamado "Space War" con mis compañeros de clase
+- 🌱 Estoy aprendiendo python
+- 💬 Sobre mi: Soy un estudiante de la UTP, tengo 18 años y puedo hablar español y ingles, soy de Perú
+- 📫 Como contactarme: Aquí esta mi Email: sheykengamer1034@gmail.com
+- 😄 Pronombre: El
+- ⚡ Fun fact: Mis amigos me dicen "foraneo"
