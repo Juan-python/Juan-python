@@ -1,5 +1,6 @@
 ## Hi there 👋
 My name is Juan
+ENG 
 About me
 - 🔭 I’m currently working on a proyect named "Space War" with my classmates
 - 🌱 I’m currently learning Python
@@ -7,6 +8,7 @@ About me
 - 📫 How to reach me: Here is my Email: sheykengamer1034@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: My friends call me "foraneo"
+ESP
 **Hola**👋
   Me llamo Juan
   Sobre mi
