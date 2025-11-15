@@ -7,7 +7,7 @@ About me <br />
 - 💬 Ask me about: I'm student from UTP, I'm 18 years old and I can speak Spanish and English, I was born in Peru
 - 📫 How to reach me: Here is my Email: sheykengamer1034@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: My friends call me "foraneo"
+- ⚡ Fun fact: My friends call me "foraneo" <br />
 ESP <br />
 **Hola**👋 <br />
   Me llamo Juan <br />
